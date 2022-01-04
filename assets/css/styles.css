@@ -329,7 +329,6 @@ img{
 
 /*========== MENU ==========*/
 .menu__container{
-  grid-template-columns: repeat(2, 1fr);
   justify-content: center;
 }
 
@@ -344,7 +343,7 @@ img{
 }
 
 .menu__img{
-  width: 100px;
+  width: 100%;
   align-self: center;
   margin-bottom: var(--mb-2);
 }
