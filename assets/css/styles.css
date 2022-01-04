@@ -346,6 +346,7 @@ img{
   width: 100%;
   align-self: center;
   margin-bottom: var(--mb-2);
+  border-radius: 0.5rem;
 }
 
 .menu__name, .menu__preci{
